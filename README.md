@@ -1,2 +1,2 @@
 # Wealthcare Application Helm Chart
-Repo to keep the Wealthcare applicatin helm chart in tgz format. MCM would use this chart to deploy the app in the cluster.
+Repository to keep the Wealthcare application helm charts in tgz format. MCM would use this chart to deploy the app in the cluster.
